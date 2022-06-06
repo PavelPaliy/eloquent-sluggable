@@ -383,7 +383,7 @@ class SlugService
                 }
             }
         }
-        $results->get()
+        $results = $results->get()
             ->toBase();
 
         // key the results and return
