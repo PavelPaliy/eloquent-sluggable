@@ -1,5 +1,16 @@
 # Change Log
 
+## 10.0.x - xx-xxx-xxxx
+
+- fix for larastan issue (#596, thanks @WalrusSoup)
+
+
+## 10.0.0 - 16-Feb-2023
+
+- Laravel 10.0 support
+- switch to using Pest instead of PHPUnit for tests
+
+
 ## 9.0.0 - 24-Jan-2022
 
 - Laravel 9 support (#577, #578, thanks @carbonvader and @tabcitu)
